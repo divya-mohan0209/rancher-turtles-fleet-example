@@ -13,6 +13,16 @@ spec:
       controlPlane: true
     fd3:
       controlPlane: true
+    fd4:
+      controlPlane: false
+    fd5:
+      controlPlane: false
+    fd6:
+      controlPlane: false
+    fd7:
+      controlPlane: false
+    fd8:
+      controlPlane: false
 ---
 apiVersion: cluster.x-k8s.io/v1beta1
 kind: Cluster
